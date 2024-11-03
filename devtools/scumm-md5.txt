@@ -177,6 +177,8 @@ loom	Loom
 	6f8a22bfa397be1f7ed4b74aba0e397e	5748	fr	DOS	EGA	EGA	v1.2 26 Jun 90	Jorpho
 	470c45b636139bb40716daa1c7edaad0	5748	de	DOS	EGA	EGA	v1.2 Deutsch from 7 Jun 90	Peter Eckerlein
 	fa127d7c4bb47d05bb1c33ddcaa9f767	5748	de	DOS	EGA	EGA	v1.2 Deutsch from 7 Jun 90	Fingolfin
+	249ab28ca3e66b7616fff4a421eaa3f4	5748	de	DOS	EGA	EGA	v1.2 Deutsch from 7 Jun 90 by
+	1f0b342f2320647c9d08dd8e392f5cc5	5748	de	DOS	EGA	EGA	v1.2 Deutsch from 7 Jun 90 by
 	187d315f6b5168f68680dfe8c3d76a3e	5748	he	DOS	EGA	EGA	-
 	c3df37df9d3b481b45f75283a9907c47	5752	it	DOS	EGA	EGA	-	Andrea Petrucci
 	0be88565f734b1e9e77ccaaf3bb14b29	5748	es	DOS	EGA	EGA	v1.2 Espanol from 31 Aug 90	George Kormend
@@ -234,6 +236,7 @@ monkey	The Secret of Monkey Island
 	25a7ce1cda4c7181c33c1c87a7cf6c7a	8357	fr	DOS	VGA	VGA	4 disk v1.0, 6/4/91 II
 	66fd5ff9a810dfeb6d6bdada18221140	8357	it	DOS	VGA	VGA	4 disk	Andrea Petrucci
 	d0b531227a27c6662018d2bd05aac52a	8357	de	DOS	VGA	VGA	4 disk v1.1, 14.Feb.91	Fingolfin
+	d0c412128d160e1d15ddabbe7dd178fc	8357	de	DOS	VGA	VGA	4 disk v1.1, 14.Feb.91 by
 	45152f7cf2ba8f43cf8a8ea2e740ae09	8357	es	DOS	VGA	VGA	4 disk	Fingolfin
 	08656dd9698ddf1023ba9bf8a195e37b	8357	en	DOS	VGA	VGA	V1.1, 15.Feb.91	crossbow777
 
